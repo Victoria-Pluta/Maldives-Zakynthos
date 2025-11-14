@@ -12,5 +12,6 @@ What I learned:
 -Deployed the site live with GitHub Pages for the first time.
 
 The link for the page: https://victoria-pluta.github.io/Maldives-Zakynthos/
+
 <img width="1894" height="864" alt="Screenshot 2025-11-14 152420" src="https://github.com/user-attachments/assets/55a974f0-fc81-4598-bbdc-2a78e15ae679" />
 
