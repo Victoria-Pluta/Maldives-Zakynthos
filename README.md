@@ -1,9 +1,14 @@
 
 What I learned:
+
 -Wrote semantic, accessible HTML5 (proper structure, alt text, fragment links).
+
 -Styled the page with an external CSS file and kept it responsive with max-width:100%.
+
 -Used both local and remote images while keeping file paths organized.
+
 -Added internal navigation that jumps to each section without JavaScript.
+
 -Deployed the site live with GitHub Pages for the first time.
 
 The link for the page: https://victoria-pluta.github.io/Maldives-Zakynthos/
